@@ -1,4 +1,0 @@
-This is my Jenkins file.
-
-This is 2nd Line of Jenkins.
-This is 3rd line of jenkins.
